@@ -1,0 +1,63 @@
+body{
+   color: blue;
+}
+
+summary{
+   color: red;
+}
+
+a{
+   color: rgb(148, 13, 13);
+}
+
+.header {
+   color: blue;
+}
+
+.header h1 {
+   color: purple;
+}
+
+.header p {
+   color: rgba(0, 0, 255, 0.466);
+}
+
+strong{
+   color: mediumspringgreen;
+}
+
+.navigation {
+   color: red;
+}
+
+.text ~ ul{
+   color: limegreen;
+}
+
+span{
+   color: blue;
+}
+
+h3{
+   color: blueviolet;
+}
+
+h3~p{
+   color: seagreen;
+}
+
+.main__foreword {
+   color: rgb(255, 0, 242);
+}
+
+h2{
+   color: orange;
+}
+
+.content__text p {
+   color: purple;
+}
+
+s{
+   color: gray;
+}
